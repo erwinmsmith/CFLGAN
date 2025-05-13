@@ -7,7 +7,7 @@ from openai import OpenAI
 from swarm import Swarm, Agent
 
 # 初始化 OpenAI 客户端
-openai_api_key = "sk-a4a3abd4e202437cb4502d2e47eddf7a"
+openai_api_key = "yours"
 openai_api_base = "https://api.deepseek.com/"
 
 try:
