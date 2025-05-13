@@ -1,0 +1,1 @@
+The generator should generate diverse and accurate questions and answers from different perspectives. The generated content must retain all key information from the original instruction and should not be shortened or simplified.
